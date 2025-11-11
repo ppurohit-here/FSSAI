@@ -1,0 +1,5 @@
+{
+  "name": "Document Q&A Assistant",
+  "description": "An intelligent assistant to analyze and answer questions about your uploaded documents using Gemini. Upload text-based documents to summarize, compare, and query their content.",
+  "requestFramePermissions": []
+}
